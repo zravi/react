@@ -49,3 +49,23 @@ return (
 };
 
 export default App;
+
+
+npm packages
+
+node-server
+npm install @babel/core @babel/node @babel/preset-env babel-plugin-add-module-exports nodemon mongoose mongoose-unique-validator body-parser cors express express-fileupload nodemailer jsonwebtoken --save-dev
+
+
+react
+"dependencies": {
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.3.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.8.1",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
+  },
